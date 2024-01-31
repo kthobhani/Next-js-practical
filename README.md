@@ -30,11 +30,11 @@ To learn more about Next.js, take a look at the following resources:
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
 ## Dependencies
-React: ^18
-Next.js: 14.1.0
-React Redux: ^9.1.0
-Material-UI (MUI): ^5.15.6
-Tailwind CSS: ^3.3.0
+- React: ^18
+- Next.js: 14.1.0
+- React Redux: ^9.1.0
+- Material-UI (MUI): ^5.15.6
+- Tailwind CSS: ^3.3.0
 
 ## Redux Implementation
 This project utilizes Redux for state management. Here's a quick example of how Redux is implemented:
